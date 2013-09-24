@@ -1,0 +1,16 @@
+<!DOC TYPE HTML>
+<html>
+<head>
+  <meta http-equiv="Content-Type="text/html; charset+utf-8"/>
+  <title>Smells Like Jello Punk Rock Dessert Company</title>
+</head>
+<body>
+<img src=jello/jello2.jpg alt="Smells Like Jello">
+<ul class="nav">
+  <li><a href="#">About</a></li>
+  <li><a href="#">Cupcakes & Prices</a></li>
+  <li><a href="#">Locations</a></li>
+  <li class="last"><a href="#">Contact Us</a></li>
+</ul>
+  <body/>
+  </html>
