@@ -12,5 +12,9 @@
   <li><a href="#">Locations</a></li>
   <li class="last"><a href="#">Contact Us</a></li>
 </ul>
+<div id="intro">
+<h1>
+</h1>
+</div>
   <body/>
   </html>
