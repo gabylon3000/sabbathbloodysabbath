@@ -12,9 +12,11 @@
   <li><a href="#">Locations</a></li>
   <li class="last"><a href="#">Contact Us</a></li>
 </ul>
-<div id="intro">
-<h1>
-</h1>
-</div>
+<div id="intro"> 
+	<h1>a moshpit in your mouth.</h1>
+	<p><a href="#" class="btn">Browse Our Desserts</a></p>
+	</div>
+<img src=jello/jelloeek.jpg alt="Sugar Smacked">
+
   <body/>
   </html>
