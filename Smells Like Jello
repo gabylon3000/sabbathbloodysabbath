@@ -18,5 +18,18 @@
 	</div>
 <img src=jello/jelloeek.jpg alt="Sugar Smacked">
 
-  <body/>
+<div id="featured-cupcake">
+	<h2>Cupcake of the Week</h2>
+	<p>This week's featured cupcake is the <a href="#">Mocha Black Flag</a>. Its flavor lineup is constantly changing!</p>
+	<img src=jello/mochablackflag.jpg alt="Mocha Black Flag">
+</div>
+
+<div src="New Cupcakes">
+	<h2>Fresh Outta the Oven<h2>
+<p>Our newest cupcakes are <a href="#">Seeing RedVelvet</a> and <a href="#">Bluegazi</a></p>
+</div>
+
+ 
+  </body>
   </html>
+
