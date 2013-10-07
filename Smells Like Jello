@@ -2,34 +2,57 @@
 <html>
 <head>
   <meta http-equiv="Content-Type="text/html; charset+utf-8"/>
-  <title>Smells Like Jello Punk Rock Desserts</title>
+  <title>Smells Like Jello Punk Rock Dessert Shop</title>
+  <link rel="stylesheet" href="css/normalize.css" type="text/css" media="screen">
+  <link rel="stylesheet" href="css/grid.css" type="text/css" media="screen">
 </head>
 <body>
-<img src=jello/jello2.jpg alt="Smells Like Jello">
-<ul class="nav">
-  <li><a href="#">About</a></li>
-  <li><a href="#">Cupcakes, mothereffers!</a></li>
-  <li><a href="#">Locations</a></li>
-  <li class="last"><a href="#">Contact Us</a></li>
-</ul>
-<div id="intro"> 
-	<h1>a moshpit in your mouth.</h1>
-	<p><a href="#" class="btn">Browse Our Desserts</a></p>
+	<div class="container clearfix">
+    <div class="grid_4">
+  	 <img src=jello/jello2.jpg alt="Smells Like Jello">
+     <ul class="nav">
+       <li><a href="#">About</a></li>
+       <li><a href="#">Cupcakes, mothereffers!</a></li>
+       <li><a href="#">Locations</a></li>
+       <li class="last"><a href="#">Contact Us</a></li>
+     </ul>
+     <div id="intro"> 
+  	  <h1>a moshpit in your mouth.</h1>
+  	  <p><a href="#" class="btn">Browse Our Desserts</a></p>
+  	 </div>
+     <img src=jello/jelloeek.jpg alt="Sugar Smacked">
+
+     <div id="featured-cupcake">
+  	 <h2>Cupcake of the Week</h2>
+  	 <p>This week's featured cupcake is the <a href="#">Mocha Black Flag</a>. Its flavor lineup is constantly changing!</p>
+  	 <img src=jello/mochablackflag.jpg alt="Mocha Black Flag">
+     </div>
+
+     <div src="new cupcakes">
+  	 <h2>Fresh Outta the Oven<h2>
+     <p>Our newest cupcakes are <a href="#">Seeing Red Velvet</a> and <a href="#">Bluegazi</a></p>
+     <img src=jello/redvelvet.jpg alt="Seeing Red Velvet">
+     <img src=jello/bluegazi.jpg alt="Bluegazi">
+     </div>
+
+     <h2>Inside the Kitchen</h2>
+     <p>Smells Like Jello started in the Garage, like all good punk rock. Joseph &amp:; Allison. Allison is the baker, and Joseph found a way for them to make a business out of her tasty treats and their shared love of music. Flash forward to today and they have a successful store front, catering business and cupcake truck. </p>
+     <p><a href="a" class="btn=small">Read More</a></p>
+
+     <h2>Get Rockin' with Us</h2>
+
+     <div id="contact">
+  	 <p>Call us: <span>1-555-CUP-CAKE</span><br>
+  	 Email us: <a href="#">bakeon@smellslikejello.com</a></p>
 	</div>
-<img src=jello/jelloeek.jpg alt="Sugar Smacked">
 
-<div id="featured-cupcake">
-	<h2>Cupcake of the Week</h2>
-	<p>This week's featured cupcake is the <a href="#">Mocha Black Flag</a>. Its flavor lineup is constantly changing!</p>
-	<img src=jello/mochablackflag.jpg alt="Mocha Black Flag">
+
+<p>We announce all of our newest flavors first through Facebook &amp:; Twitter, and even take requests!</p>
+
+
+
+
 </div>
-
-<div src="New Cupcakes">
-	<h2>Fresh Outta the Oven<h2>
-<p>Our newest cupcakes are <a href="#">Seeing RedVelvet</a> and <a href="#">Bluegazi</a></p>
-</div>
-
- 
   </body>
   </html>
 
