@@ -2,19 +2,34 @@
 <html>
 <head>
   <meta http-equiv="Content-Type="text/html; charset+utf-8"/>
-  <title>Smells Like Jello Punk Rock Dessert Shop</title>
-  <link rel="stylesheet" href="css/normalize.css" type="text/css" media="screen">
+  <title>8 1/2.Code Bloodbath</title>
+  
+  <link rel="stylesheet" href="8.css/8.css" type="text/css" media="screen">
   <link rel="stylesheet" href="css/grid.css" type="text/css" media="screen">
+  
 </head>
 <body>
+  
+<h1>8 1/2. Code Bloodbath</h1>
+  <p> Inspired .write some stuff,yo..</p>
 	<div class="container clearfix">
     <div class="grid_4">
-  	 <img src=jello/jello2.jpg alt="Smells Like Jello">
+
+      <img src=8/banner1.jpg alt="Code Bloodbath">
+
+  	 <h2>And away we go...</h2>
+     
      <ul class="nav">
-       <li><a href="#">About</a></li>
-       <li><a href="#">Cupcakes, mothereffers!</a></li>
-       <li><a href="#">Locations</a></li>
-       <li class="last"><a href="#">Contact Us</a></li>
+       <li><a href="#">ghost chase</a></li>
+       <li><a href="#">TBD</a></li>
+       <li><a href="#">TBD</a></li>
+       <li><a href="#">TBD</a></li>
+       <li><a href="#">TBD</a></li>
+       <li><a href="#">TBD</a></li>
+       <li><a href="#">TBD</a></li>
+       <li><a href="#">TBD</a></li>
+       <li><a href="#">TBD</a></li>
+       <li class="last"><a href="#">blog</a></li>
      </ul>
      <div id="intro"> 
   	  <h1>a moshpit in your mouth.</h1>
@@ -55,4 +70,3 @@
 </div>
   </body>
   </html>
-
